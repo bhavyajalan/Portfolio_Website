@@ -10,7 +10,7 @@
         "type": "Text",
         "config": {
           "label": "Name",
-          "placeholder": ""
+          "placeholder": "bhavya"
         }
       },
       "nav_item": {
